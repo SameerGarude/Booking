@@ -1,8 +1,8 @@
 {
   "name": "booking",
   "version": "0.1.0",
-  "homepage": "https://sameergarude.github.io/Booing/",
-  "private": false,
+  "homepage": "https://SameerGarude.github.io/Booing/",
+  "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
     "@fortawesome/free-regular-svg-icons": "^6.4.2",
