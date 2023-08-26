@@ -4,7 +4,7 @@ import List from "./pages/list/List";
 import Hotel from "./pages/hotel/Hotel";
 function App() {
   return (
-    <BrowserRouter basename="/Booking">
+    <BrowserRouter basename="/Boooking">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/hotels" element={<List />} />
