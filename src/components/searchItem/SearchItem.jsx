@@ -38,7 +38,7 @@ const SearchItem = () => {
           <span className="siPrice">₹2,10,000</span>
           <span className="siTaxOp">Includes GST and fees.</span>
           <button onClick={handleAvailability} className="siCheckButton">
-            See availability{" >"}
+            See availability
           </button>
         </div>
       </div>
